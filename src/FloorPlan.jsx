@@ -6,7 +6,7 @@ const FloorPlan = (props) => {
       FloorPlan
       <Kitchen />
     </div>
-   );
+  );
 }
- 
+
 export default FloorPlan;
